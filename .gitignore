@@ -134,7 +134,6 @@ dmypy.json
 .DS_Store
 .DS_Store?
 *.pyc
-*.pkl
 *.mlab.auto
 *.xlsx
 *.mat
