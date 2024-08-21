@@ -36,7 +36,6 @@ setuptools.setup(
         'jupyter>=1.0',
         'Pillow>=8.1.0',
         'pandas>=1.2',
-        'sklearn==0.0.post1',
         'scikit-learn==1.2.2',
         'xlrd>=2.0',
         'openpyxl>=3.0',
